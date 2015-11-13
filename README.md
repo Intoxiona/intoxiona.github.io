@@ -1,29 +1,26 @@
-AppSite
-===========================
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-Material Design Website Template for an app's landing page, built with Project Polymer 
-Demo: http://faizmalkani.github.io/appsite
+## Getting Started
 
-Easy to setup and deploy. 
-Download the project as a zip, extract it, edit the HTML to match your app's details, and you're good to go!
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
+## Bugs and Issues
 
-Properties to be edited before publishing:
-- Page Title, Description, Keywods, Copyright and Author
-- Cover Image *(optional)*
-- Floating Button color, desktop and mobile *(optional)*
-- Floating Button email address, desktop and mobile *(optional)*
-- App Name, Developer Name and App Price
-- App Description
-- Other Apps thumbnails and titles
-- App Details
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
+## Creator
 
-## Vulcanization
-Assuming you're familiar with bower, run the following commands from the root of your project directory to *significantly* reduce page load times.
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-    npm install -g vulcanize
-    vulcanize index.html --inline
-    
-Vulcanize combines your files to reduce the number of network requests and has a number of flags you can tweak based on your preferences. Once vulcanized, it's safe to delete all the folders except the images folder, since the code is all contained in index.html     
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.

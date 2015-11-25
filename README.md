@@ -2,7 +2,7 @@
 
 ... to the Homepage of the Intoxiona App-Studios.
 
-## For what is this Repo??
+## For what is this Repo?
 
 This Repo is basically a simple homepage for showing us and our work. Nothing to do here anymore ;)
 

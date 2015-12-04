@@ -28,6 +28,13 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+	
+	<!-- Script for autorezise of iframe -->
+	<script language="javascript" type="text/javascript">
+		function resizeIframe(obj) {
+		obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+		}
+	</script>
 
 </head>
 
@@ -166,7 +173,8 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                    -
+                     <a target= "_blank" href="http://intoxiona.bplaced.net/services/helpdesk/index.php?a=add" class="btn btn-block btn-lg btn-success"><span class="fa fa-ticket"></span> Ein Ticket schreiben...</a>
+					 <a href="mailto:intoxiona@gmail.com" class="btn btn-block btn-lg btn-warning"><span class="fa fa-envelope"></span> Eine E-Mail schicken...</a>
         </div>
                 </div>
             </div>
